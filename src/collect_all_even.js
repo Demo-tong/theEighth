@@ -9,5 +9,6 @@ function collect_all_even(collection) {
 
   return outArray;
 }
+"output"
 
 module.exports = collect_all_even;
